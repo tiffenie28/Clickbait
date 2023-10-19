@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Top Headlines</string>
+    <string name="title1">BuzzFeed</string>
+    <string name="desc1">10 Unbelievable Travel Destinations You Never Knew Existed! You Won\'t Believe #10!</string>
+    <string name="time1">22m ago</string>
+    <string name="title2">InfoFrenzyHub</string>
+    <string name="desc2">15 Adorable Pets Reacting to Their Reflections – You Won\'t Believe #7!</string>
+    <string name="time2">2h ago</string>
+    <string name="title3">ViralInsightGlobe</string>
+    <string name="desc3">Quiz: Which Fictional Fantasy World Should You Actually Live In?</string>
+    <string name="time3">16h ago</string>
+    <string name="title4">ViralInsightGlobe</string>
+    <string name="desc4">The Ultimate DIY Hacks to Transform Your Small Space into a Palace!</string>
+    <string name="time4">36m ago</string>
+    <string name="title5">CuriositySphere</string>
+    <string name="desc5">Can You Guess These 90s Cartoon Theme Songs? Take the Nostalgia Quiz!</string>
+    <string name="time5">2d ago</string>
+    <string name="title6">InfoFrenzyHub</string>
+    <string name="desc6">Discover Your Perfect Pizza Topping Based on Your Zodiac Sign! Virgo\'s Will Lose Their
+Minds!"</string>
+    <string name="time6">42m ago</string>
+    <string name="title7">TrendUnveilArena</string>
+    <string name="desc7">Jaw-Dropping Celebrity Lookalikes That Will Make You Do a Double Take!</string>
+    <string name="time7">12m ago</string>
+    <string name="title8">BuzzFeed</string>
+    <string name="desc8">The Great Junk Food Showdown: Which Snack Will Win the Taste Test?</string>
+    <string name="time8">2h ago</string>
+    <string name="title9">CuriositySphere</string>
+    <string name="desc9">Find Out Your Celebrity Soulmate with This Totally Accurate Quiz!</string>
+    <string name="time9">4h ago</string>
+    <string name="title10">HuffPest</string>
+    <string name="desc10">Incredible Life Hacks That Will Change Your Daily Routine Forever!</string>
+    <string name="time10">51m ago</string>
+</resources>
